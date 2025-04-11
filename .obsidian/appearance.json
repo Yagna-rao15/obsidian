@@ -1,0 +1,18 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSizeAction": false,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CSI",
+    "CyanVoxl",
+    "Syntax"
+  ],
+  "accentColor": "",
+  "showViewHeader": true
+}

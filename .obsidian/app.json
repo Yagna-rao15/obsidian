@@ -1,0 +1,15 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "useTab": false,
+  "tabSize": 2,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Assets",
+  "uriCallbacks": true,
+  "promptDelete": false,
+  "readableLineLength": true
+}
