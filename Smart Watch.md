@@ -8,4 +8,3 @@ tags:
 - Analyze sleep data, automatic sleep tracking
 - Calender and daily tasks added before day
 - Workout tarcking with mobile and laptop
-- 

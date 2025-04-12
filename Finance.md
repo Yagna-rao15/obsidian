@@ -12,7 +12,8 @@ Sai - 1237
 Pawan - (-1878)
 Harsha - 305
 Nivas - 100
-
+Balaji - 265+30+20
+Vamsi - 131
 ###### Details:
 
 Aqua Magica:
